@@ -1,0 +1,178 @@
+.frameChild,
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameInner,
+.frameItem,
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 350px;
+  height: 647px;
+  object-fit: cover;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameInner,
+.frameItem,
+.rectangleIcon {
+  left: 1500px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameInner,
+.rectangleIcon {
+  left: 374px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.rectangleIcon {
+  left: 1874px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4 {
+  left: 741px;
+}
+.frameChild2,
+.frameChild3,
+.frameChild4 {
+  left: 2241px;
+}
+.frameChild3,
+.frameChild4 {
+  left: 1106px;
+}
+.frameChild4 {
+  left: 2606px;
+}
+.doddabettaPeak,
+.doddabettaPeak1,
+.ootyLake,
+.ootyLake1 {
+  position: absolute;
+  top: 545px;
+  left: 72px;
+  font-size: var(--font-size-21xl);
+  line-height: 120%;
+  text-align: left;
+}
+.doddabettaPeak,
+.doddabettaPeak1,
+.ootyLake1 {
+  left: 1572px;
+}
+.doddabettaPeak,
+.doddabettaPeak1 {
+  top: 548px;
+  left: 406px;
+  font-size: var(--font-size-17xl);
+}
+.doddabettaPeak1 {
+  left: 1906px;
+}
+.mukurthi {
+  margin: 0;
+}
+.mukurthiNationalParkContainer,
+.mukurthiNationalParkContainer1,
+.tigerHill,
+.tigerHill1 {
+  position: absolute;
+  top: 527px;
+  left: 808px;
+  font-size: var(--font-size-17xl);
+  line-height: 120%;
+}
+.mukurthiNationalParkContainer1,
+.tigerHill,
+.tigerHill1 {
+  left: 2308px;
+}
+.tigerHill,
+.tigerHill1 {
+  top: 535px;
+  left: 1229px;
+  font-size: var(--font-size-21xl);
+  text-align: left;
+}
+.tigerHill1 {
+  left: 2729px;
+}
+.aPopularTourist,
+.aPopularTourist1 {
+  position: absolute;
+  top: 666px;
+  left: 25px;
+  font-family: var(--font-circular-std);
+  color: var(--color-black);
+  display: inline-block;
+  width: 288px;
+}
+.aPopularTourist1 {
+  left: 1525px;
+}
+.onClearDaysContainer {
+  left: 394px;
+  width: 288px;
+  height: 77px;
+}
+.itIsHomeTo,
+.itIsHomeTo1,
+.itsSplendidSights,
+.itsSplendidSights1,
+.onClearDaysContainer,
+.onClearDaysContainer1 {
+  position: absolute;
+  top: 669px;
+  font-family: var(--font-circular-std);
+  color: var(--color-black);
+  display: inline-block;
+}
+.onClearDaysContainer1 {
+  left: 1894px;
+  width: 288px;
+  height: 77px;
+}
+.itIsHomeTo,
+.itIsHomeTo1,
+.itsSplendidSights,
+.itsSplendidSights1 {
+  left: 755px;
+  width: 321px;
+}
+.itIsHomeTo1,
+.itsSplendidSights,
+.itsSplendidSights1 {
+  left: 2255px;
+}
+.itsSplendidSights,
+.itsSplendidSights1 {
+  left: 1106px;
+  width: 313px;
+}
+.itsSplendidSights1 {
+  left: 2606px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1849px;
+  left: 157px;
+  width: 1283px;
+  height: 794px;
+  overflow-x: auto;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--font-allenoire-free-personal);
+}

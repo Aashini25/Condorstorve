@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Circular+Std:ital,wght@0,400;0,500;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Allenoire+Free+Personal:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-circular-std: "Circular Std";
+  --font-allenoire-free-personal: "Allenoire Free Personal";
+  --body1: Montserrat;
+  --body: Inter;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-17xl: 36px;
+  --font-size-29xl: 48px;
+  --font-size-51xl: 70px;
+  --font-size-5xl: 24px;
+  --body-size: 18px;
+  --font-size-4xl: 23px;
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-25xl: 44px;
+
+  /* Colors */
+  --white: #fff;
+  --color-lightgreen-100: rgba(155, 224, 136, 0.3);
+  --color-darkslategray: #1b4332;
+  --color-black: #000;
+  --color-orange: #ffa039;
+  --color-darkgreen: #075605;
+  --color-mediumseagreen: #00c782;
+  --color-lemonchiffon: #fffbce;
+  --color-gray-100: #7c7c7c;
+  --color-gray-200: #1e1e1e;
+  --grey-scale-black: #191825;
+  --black-50: rgba(0, 0, 0, 0.5);
+  --grey-scale-black-10: rgba(25, 24, 37, 0.1);
+  --grey-scale-black-50: rgba(25, 24, 37, 0.5);
+  --grey-scale-black-75: rgba(25, 24, 37, 0.75);
+  --color-dimgray: #6e6e6e;
+  --color-lightgoldenrodyellow-100: #cbeec1;
+  --color-lightgoldenrodyellow-200: rgba(203, 238, 193, 0.51);
+  --color-whitesmoke: #efefef;
+  --color-gainsboro: #d9d9d9;
+  --yellow: #facd49;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-49xl: 68px;
+  --gap-102xl: 121px;
+  --gap-13xl: 32px;
+  --gap-45xl: 64px;
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-59xl: 78px;
+  --padding-65xl: 84px;
+  --padding-13xl: 32px;
+  --padding-45xl: 64px;
+  --padding-146xl: 165px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-13xl: 32px;
+  --br-16xl: 35px;
+  --br-81xl: 100px;
+}

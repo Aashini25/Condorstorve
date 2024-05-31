@@ -1,0 +1,48 @@
+.joinUsIn,
+.joinUsIn1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 120%;
+  display: inline-block;
+  width: 1632px;
+}
+.joinUsIn1 {
+  left: 1662px;
+  width: 2043px;
+}
+.joinUsInPreservingThisNatParent {
+  width: 3705px;
+  position: relative;
+  height: 58px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.frame109defaultChild {
+  width: 19px;
+  position: absolute;
+  margin: 0 !important;
+  top: 17px;
+  left: 1624px;
+  border-radius: 50%;
+  background-color: var(--color-orange);
+  height: 19px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame109default {
+  position: absolute;
+  top: 6409px;
+  left: 15px;
+  width: 1624px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkgreen);
+  font-family: var(--font-allenoire-free-personal);
+}

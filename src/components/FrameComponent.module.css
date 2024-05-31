@@ -1,0 +1,294 @@
+.janeCooper,
+.janeCooper1 {
+  position: absolute;
+  top: 219px;
+  left: 621px;
+  display: inline-block;
+  width: 118px;
+}
+.janeCooper1 {
+  left: 2134px;
+}
+.eleanorPena,
+.eleanorPena1,
+.jeromeBell,
+.jeromeBell1 {
+  position: absolute;
+  top: 213px;
+  left: 917px;
+  display: inline-block;
+  width: 149px;
+}
+.eleanorPena1,
+.jeromeBell,
+.jeromeBell1 {
+  left: 2430px;
+}
+.jeromeBell,
+.jeromeBell1 {
+  top: 219px;
+  left: 318px;
+}
+.jeromeBell1 {
+  left: 1831px;
+}
+.div,
+.div1,
+.estherHoward,
+.estherHoward1,
+.ronaldRichards,
+.ronaldRichards1 {
+  position: absolute;
+  top: 219px;
+  left: 15px;
+  display: inline-block;
+  width: 149px;
+}
+.div,
+.div1,
+.estherHoward,
+.estherHoward1,
+.ronaldRichards1 {
+  left: 1528px;
+}
+.div,
+.div1,
+.estherHoward,
+.estherHoward1 {
+  top: 215px;
+  left: 1222px;
+}
+.div,
+.div1,
+.estherHoward1 {
+  left: 2735px;
+}
+.div,
+.div1 {
+  top: 222px;
+  left: 803px;
+  font-size: var(--font-size-mini);
+  width: 76px;
+}
+.div1 {
+  left: 2316px;
+}
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 219px;
+  left: 1098px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 71px;
+}
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 2611px;
+}
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 225px;
+  left: 499px;
+}
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 2012px;
+}
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 196px;
+}
+.div7,
+.div8,
+.div9 {
+  left: 1709px;
+}
+.div8,
+.div9 {
+  top: 221px;
+  left: 1403px;
+}
+.div9 {
+  left: 2916px;
+}
+.frameChild,
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6,
+.frameInner,
+.frameItem,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 901px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgreen-100);
+  width: 282px;
+  height: 315px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6,
+.frameInner,
+.frameItem,
+.rectangleDiv {
+  left: 2414px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6,
+.frameInner,
+.rectangleDiv {
+  left: 606px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6,
+.rectangleDiv {
+  left: 2119px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  left: 1207px;
+}
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  left: 2720px;
+}
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  left: 303px;
+}
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  left: 1816px;
+}
+.frameChild5,
+.frameChild6 {
+  left: 0;
+}
+.frameChild6 {
+  left: 1513px;
+}
+.frameChild7,
+.frameChild8,
+.rectangleIcon {
+  position: absolute;
+  top: 15px;
+  left: 917px;
+  border-radius: var(--br-3xs);
+  width: 252px;
+  height: 189px;
+  object-fit: cover;
+}
+.frameChild7,
+.frameChild8 {
+  left: 2430px;
+}
+.frameChild8 {
+  left: 318px;
+}
+.frameChild10,
+.frameChild11,
+.frameChild12,
+.frameChild13,
+.frameChild14,
+.frameChild15,
+.frameChild9 {
+  position: absolute;
+  top: 15px;
+  left: 1831px;
+  border-radius: var(--br-3xs);
+  width: 252px;
+  height: 189px;
+  object-fit: cover;
+}
+.frameChild10,
+.frameChild11,
+.frameChild12,
+.frameChild13,
+.frameChild14,
+.frameChild15 {
+  left: 15px;
+}
+.frameChild11,
+.frameChild12,
+.frameChild13,
+.frameChild14,
+.frameChild15 {
+  left: 1528px;
+}
+.frameChild12,
+.frameChild13,
+.frameChild14,
+.frameChild15 {
+  left: 1222px;
+}
+.frameChild13,
+.frameChild14,
+.frameChild15 {
+  left: 2735px;
+}
+.frameChild14,
+.frameChild15 {
+  left: 621px;
+  width: 258px;
+}
+.frameChild15 {
+  left: 2134px;
+}
+.janeCooperParent {
+  position: absolute;
+  top: 10532px;
+  left: 4px;
+  width: 1438px;
+  height: 315px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-circular-std);
+}
